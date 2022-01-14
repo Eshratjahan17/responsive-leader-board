@@ -24,6 +24,41 @@ hr {
 .top-players {
   margin-bottom: 30px;
 }
+/* Navigationbar start */
+nav {
+  background-color: #562eff;
+  padding: 15px;
+}
+h4 {
+  color: white;
+}
+.navigationbar {
+  width: 1128px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+}
+.icons {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.icon a {
+  font-size: 28px;
+  margin-left: 7em;
+  color: white;
+  margin-right: 14px;
+}
+.options a {
+  text-decoration: none;
+  color: white;
+  margin-left: 30px;
+}
+.options {
+  display: flex;
+  align-items: center;
+}
+/* Navigationbar End */
 .section-title {
   color: #562eff;
   font-size: 24px;
